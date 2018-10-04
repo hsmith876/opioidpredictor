@@ -16,21 +16,16 @@ gunicorn==19.9.0
 idna==2.7
 itsdangerous==0.24
 jinja2==2.10
-libffi==3.2.1
-libgcc-ng==7.2.0
-libstdcxx-ng==7.2.0
 markupsafe==1.0
 ncurses==6.1
 openssl==1.0.2p
 pip==18.0
 pycparser==2.19
 pyopenssl==18.0.0
-pysocks==1.6.8
 python==3.7.0
 readline==7.0
 requests==2.19.1
 setuptools==40.4.0
-six==1.11.0
 sqlite==3.25.2
 tk==8.6.8
 urllib3==1.23
@@ -38,3 +33,5 @@ werkzeug==0.14.1
 wheel==0.32.0
 xz==5.2.4
 zlib==1.2.11
+scikit-learn==0.19.1
+scipy==1.1.0
