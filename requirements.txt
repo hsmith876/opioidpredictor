@@ -20,7 +20,7 @@ markupsafe==1.0
 pip==18.0
 requests==2.19.1
 setuptools==40.4.0
-sqlite==3.25.2
+
 tk==8.6.8
 urllib3==1.23
 werkzeug==0.14.1
