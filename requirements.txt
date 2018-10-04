@@ -17,10 +17,7 @@ idna==2.7
 itsdangerous==0.24
 jinja2==2.10
 markupsafe==1.0
-
 pip==18.0
-
-python==3.7.0
 readline==7.0
 requests==2.19.1
 setuptools==40.4.0
